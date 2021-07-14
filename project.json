@@ -1,5 +1,5 @@
 {
-  "product_group": "software-infrastructure",
+  "product_group": "software_infrastructure",
   "version": "v1",
   "project": {
     "name": "prometheus_slurm_exporter",
