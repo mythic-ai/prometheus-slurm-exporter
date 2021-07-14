@@ -1,0 +1,16 @@
+{
+  "product_group": "software-infrastructure",
+  "project": {
+    "name": "prometheus_slurm_exporter",
+    "repo_url": "https://github.com/mythic-ai/prometheus-slurm-exporter"
+   },
+   "artifacts": [
+      {
+        "name": "prometheus_slurm_exporter_docker",
+        "type": "docker_image",
+        "versions": {
+          "current": "0.0.1"
+        }
+      }
+   ]
+}
