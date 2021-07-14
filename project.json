@@ -1,5 +1,6 @@
 {
   "product_group": "software-infrastructure",
+  "version": "v1",
   "project": {
     "name": "prometheus_slurm_exporter",
     "repo_url": "https://github.com/mythic-ai/prometheus-slurm-exporter"
